@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Application Strings -->
+    <string name="app_name">Android Assessment</string>
+    <string name="function_one">FUNCTION 1</string>
+    <string name="function_two">FUNCTION 2</string>
+    <string name="app_loader">Initialising application</string>
+    <string name="activity_result_message">Welcome</string>
+    <string name="activity_result">Result Screen</string>
+
+    <!-- Messages -->
+    <string name="message_start_track">Play Audio</string>
+    <string name="message_stop_track">Stop Audio</string>
+    <string name="message_activity_result">, thanks for returning, we hope you enjoy your stay</string>
+
+    <!-- Dialog Button text -->
+    <string name="dialog_play">Play</string>
+    <string name="dialog_close">Close</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_stop">Stop</string>
+
+    <!-- Error Handling -->
+    <string name="check_for_internet_access">Network Info</string>
+    <string name="no_internet_access">Please connect to a working Internet before using this application!</string>
+    <string name="no_internet_access_function_one">Please connect to a working Internet before opening this function</string>
+
+    <!-- Button Text -->
+    <string name="button_function_one">Function 1</string>
+    <string name="button_function_Two">Function 2</string>
+    <string name="button_save_name">Submit</string>
+    <string name="button_return">Return</string>
+    <string name="button_exit">Exit</string>
+
+    <!-- EditView Hint -->
+    <string name="hint_name">Enter Name</string>
+
+    <!-- PlaceHolder -->
+    <string name="place_holder">Place Holder</string>
+</resources>
